@@ -1,0 +1,164 @@
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+WARNING:selenium.webdriver.common.selenium_manager:There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+WARNING:selenium.webdriver.common.selenium_manager:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000220368D3C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/19b89d41482b0ae05c5e19b22dd4bfb5/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000220369D3890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/19b89d41482b0ae05c5e19b22dd4bfb5/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000220368BF100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/19b89d41482b0ae05c5e19b22dd4bfb5/element
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027396793C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0ed835e06a349e5010a0338045599c49/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027396897890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0ed835e06a349e5010a0338045599c49/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002739677F100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0ed835e06a349e5010a0338045599c49/element
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+INFO:root:******Test_Case_002 completed*****************************
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B8B06DA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/82e282b93fc783e9fcdea6ac9cd5d427/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B8B093A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/82e282b93fc783e9fcdea6ac9cd5d427/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B8B093490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/82e282b93fc783e9fcdea6ac9cd5d427/element
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002198C6BEFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f933bd4691c61f215659122bbd563934/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002198C6BE490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f933bd4691c61f215659122bbd563934/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002198C63B950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f933bd4691c61f215659122bbd563934/element
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:**** New User Details added successfully****
+INFO:root:**** Test_03_passed ****
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:**** New User Details added successfully****
+INFO:root:**** Test_03_passed ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:**** New User Details added successfully****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:**** New User Details added successfully****
+INFO:root:**** Test_03_passed ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:**** New User Details added successfully****
+INFO:root:**** Test_03_passed ****
+INFO:root:*******Test_Case_001 starter***********************************
+INFO:root:******Title verification is successfull********************************************
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000124836383B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5cb129068fb2942caeb6c2a870a3c93b/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001248317AE00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5cb129068fb2942caeb6c2a870a3c93b/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000124832C58C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5cb129068fb2942caeb6c2a870a3c93b/element
+WARNING:selenium.webdriver.common.selenium_manager:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:*** search customer by email *****
+INFO:root:**** customer details fetched successfully ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:*** search customer by email *****
+INFO:root:**** customer details fetched successfully ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:*** search customer by email *****
+INFO:root:**** customer details fetched successfully ****
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:********  Test_Case_002 started Data Driven **********************************
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E41DA11090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/96f1f5843a6a780ce60d1b8bda13210f/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E41D95B820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/96f1f5843a6a780ce60d1b8bda13210f/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E41D958FC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/96f1f5843a6a780ce60d1b8bda13210f/element
+INFO:root:****** Test_03_adding new customer*********
+INFO:root:**** Login Successfull ****
+INFO:root:********Test_Case_002 started**********************************
+INFO:root:******Test_Case_002 completed*****************************
