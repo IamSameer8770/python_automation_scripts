@@ -1,2 +1,12 @@
+
 already hte same file in remote repo
-now adding few lines here in local repo
+now adding few lines here in local rep
+practised for amend commit it 
+done with the git commit --amend 
+git revert <commit-hash>
+352105
+352105352105352105352105352105352105
+352105352105
+352105352105352105352105352105352105
+352105352105352105352105352105352105
+
