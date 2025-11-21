@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 already hte same file in remote repo
 now adding few lines here in local rep
 practised for amend commit it 
@@ -8,8 +6,3 @@ git revert <commit-hash>
 352105
 352105352105352105352105352105352105
 352105352105
-352105352105352105352105352105352105
-352105352105352105352105352105352105
-
-=======
->>>>>>> parent of 02f5a43 (Update amend.txt)
